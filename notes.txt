@@ -1,0 +1,15 @@
+Leaderboard:
+
+http://data.pga.com/jsonp/event/pgachampionship/2012/leaderboard/json/leaderboard.json
+
+Scorecard:
+
+http://data.pga.com/jsonp/event/pgachampionship/2012/scorecard/json/28237.json
+
+Summary:
+
+http://data.pga.com/jsonp/event/pgachampionship/2012/scorecard/json/28237_summary.json
+
+http://www.pgatour.com/15s/.element/ssi/auto/3.0/sdms/leaderboards/r045/data/current/leaderboard-1-all.json
+
+http://www.pgatour.com/.element/ssi/auto/3.0/sdms/players/03/23/34/scorecard/2012/r045.json
